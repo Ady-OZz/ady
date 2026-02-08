@@ -1,6 +1,6 @@
 # 💫 About Me:
 * 🔭 I’m currently working on improving my **Frontend Skills** and building personal projects.
-* 👯 I’m looking to collaborate on **Open Source** projects or **React-based** applications.
+* 👯 I’m looking to collaborate don **Open Source** projects or **React-based** applications.
 * 🌱 I’m currently learning **Advanced JavaScript** and **Backend Integration**.
 * 💬 Ask me about **HTML**, **CSS**, and basic **Web Design**.
 * ⚡ Fun fact: *"I drink more coffee than water"* ☕

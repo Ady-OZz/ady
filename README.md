@@ -39,7 +39,7 @@
 # 💼 Employer?
 
 > [!IMPORTANT]
-> 📄 **Resume Reference**
+> 📄 **Resume Referencde**
 >
 > **[Download my Resume](./resume.pdf)**
 
